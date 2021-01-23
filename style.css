@@ -1,0 +1,27 @@
+.body{background-color:black;}
+h1{color:black;}
+
+
+
+.main{
+	margin-left: 30%;
+	margin-top: 20px;
+}
+
+.cal{
+	margin-top: 3%;
+	margin-left: 30%;
+	background-color: white;
+	width: 700px;
+	height: 500px;
+	border-radius: 10%
+}
+h1{
+	margin-left: 5%;
+	margin-top: 100px;
+	color: gray;
+}
+.ye{
+	
+	background-color: yellow;
+}
